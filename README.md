@@ -15,12 +15,12 @@
   
 Desenvolvendo, aprendendo e dando meu melhor.
 </br>
-<a href="https://discord.gg/MZqJc3KNcC"><img src="https://img.shields.io/discord/717378706976276522?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Discord server" /></a> 
+<a href="https://discord.gg/N25Cswk2nZ"><img src="https://img.shields.io/discord/717378706976276522?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Discord server" /></a> 
 <a href="https://discord.com/users/394487420961161216"><img src="https://img.shields.io/badge/-@JhonyBoy230cm%235643-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 
 ## 🌟 Meu projeto principal
- ・💓 Atualmente estou desenvolvendo meu bot principal (O exterminador-bot)<br>
- ・🤖 Ele nasceu dia 18 de dezembro de 2020<br>
+ ・💓 Atualmente estou desenvolvendo um site do bot principal da eris company (A Eris-bot)<br>
+ ・🤖 Ela nasceu dia 18 de dezembro de 2020<br>
  ・🎊 Ainda em desenvolvimento<br>
 
 ## 🌀 Tecnologias e ferramentas
@@ -32,7 +32,10 @@ Desenvolvendo, aprendendo e dando meu melhor.
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/React-blue.svg?style=for-the-badge&logo=react&logoColor=white" height="25" />
  <img src="https://img.shields.io/badge/git-%23F7DF1E.svg?&style=for-the-badge&logo=git&logoColor=black" height="25"/>
- <img src="https://img.shields.io/badge/typescript-blue.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/php-blue.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/sql-ffa500.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25" />
+
 </p> 
 
 ## ⭐ ・Estatistícas・⭐
