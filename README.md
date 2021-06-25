@@ -1,23 +1,22 @@
-## 💭 Vitogiu1
+## 💭 ZeeBooLDev
 
 <p align="center">
-    <img src="https://discord.c99.nl/widget/theme-1/785653990553288804.png"/>
+    <img src="https://media.discordapp.net/attachments/828723434074013757/858058463144968242/20210625_155501.png"/>
 </p> 
 
 ---
 
-<img align="right" src="https://i.imgur.com/TFEuMBP.png" height="160px" />
-
- ・👦 Meu Nome é Vito Giuliano<br>
- ・👁‍🗨 Tenho 15 anos<br>
- ・📅 Nasci dia 04 de outubro de 2005.<br>
- ・💻 Sou Desenvolvedor back-end tentando me tornar full-stack<br>
- ・🤖 Desenvolvo bots ao discord nos tempos livres.
+</br>
+ ・👦 Meu Nome é Gustavo<br>
+ ・👁‍🗨 Tenho 16 anos<br>
+ ・📅 Nasci dia 13 de março de 2005.<br>
+ ・💻 Sou Desenvolvedor front-end tentando me tornar full-stack<br>
+ ・🤖 Desenvolvo sites/bots ao discord e apps nos tempos livres.
   
 Desenvolvendo, aprendendo e dando meu melhor.
-
+</br>
 <a href="https://discord.gg/MZqJc3KNcC"><img src="https://img.shields.io/discord/717378706976276522?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Discord server" /></a> 
-<a href="https://discord.com/users/785653990553288804"><img src="https://img.shields.io/badge/-@Vitogiu1%230001-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
+<a href="https://discord.com/users/394487420961161216"><img src="https://img.shields.io/badge/-@JhonyBoy230cm%235643-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 
 ## 🌟 Meu projeto principal
  ・💓 Atualmente estou desenvolvendo meu bot principal (O exterminador-bot)<br>
