@@ -1,4 +1,4 @@
-## 💭 ZeeBooLDev
+<h1 align="center">💭 ZeeBooLDev </h1>
 
 <p align="center">
     <img src="https://media.discordapp.net/attachments/828723434074013757/858058463144968242/20210625_155501.png"/>
@@ -7,23 +7,15 @@
 ---
 
 </br>
- ・👦 Meu Nome é Gustavo<br>
- ・👁‍🗨 Tenho 16 anos<br>
- ・📅 Nasci dia 13 de março de 2005.<br>
+<p align="center">
  ・💻 Sou Desenvolvedor front-end tentando me tornar full-stack<br>
- ・🤖 Desenvolvo sites/bots ao discord e apps nos tempos livres.
-  
-Desenvolvendo, aprendendo e dando meu melhor.
+ ・🤖 Desenvolvo sites/bots ao discord e apps nos tempos livres.</p>
 </br>
+<p align="center">
 <a href="https://discord.gg/N25Cswk2nZ"><img src="https://img.shields.io/discord/717378706976276522?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Discord server" /></a> 
-<a href="https://discord.com/users/394487420961161216"><img src="https://img.shields.io/badge/-@JhonyBoy230cm%235643-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
+<a href="https://discord.com/users/394487420961161216"><img src="https://img.shields.io/badge/-@JhonyBoy230cm%235643-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a></p>
 
-## 🌟 Meu projeto principal
- ・💓 Atualmente estou desenvolvendo um site do bot principal da eris company (A Eris-bot)<br>
- ・🤖 Ela nasceu dia 18 de dezembro de 2020<br>
- ・🎊 Ainda em desenvolvimento<br>
-
-## 🌀 Tecnologias e ferramentas
+<h1 align="center">🌀 Tecnologias e ferramentas</h1><br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
@@ -36,9 +28,9 @@ Desenvolvendo, aprendendo e dando meu melhor.
 <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/sql-ffa500.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25" />
 
-</p> 
+</p> <br>
 
-## ⭐ ・Estatistícas・⭐
+<h1 align="center">⭐ ・Estatistícas・⭐</h1><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devzeebool&show_icons=true&theme=tokyonight&line_height=27" />
