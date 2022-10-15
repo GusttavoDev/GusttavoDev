@@ -8,7 +8,7 @@
 
 </br>
 <p align="center">
- ・💻 Sou Desenvolvedor front-end tentando me tornar full-stack<br>
+ ・💻 Sou Desenvolvedor full-stack<br>
  ・🤖 Desenvolvo sites/bots ao discord e apps nos tempos livres.</p>
 </br>
 <p align="center">
