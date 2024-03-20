@@ -23,11 +23,11 @@
 <img src="https://img.shields.io/badge/php-blue.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/sql-ffa500.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/typescript-ffa500.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25" />   
+<img src="https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25" />   
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/React-blue.svg?style=for-the-badge&logo=react&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Angular-blue.svg?style=for-the-badge&logo=angular&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Angular-red.svg?style=for-the-badge&logo=angular&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/git-%23F7DF1E.svg?&style=for-the-badge&logo=git&logoColor=black" height="25"/>
 </p> <br>
 
